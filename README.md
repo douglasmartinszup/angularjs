@@ -1,2 +1,2 @@
 # angularjs
-simple app
+simple app created by Doug Caval
